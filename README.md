@@ -275,7 +275,6 @@ or import only the parts of Bootstrap you need:
 ```scss
 @import "bootstrap-sass/bootstrap/variables";
 @import "bootstrap-sass/bootstrap/mixins";
-@import "bootstrap-sass/bootstrap/carousel";
 ```
 
 ## Version
